@@ -2,6 +2,4 @@
 
 This is TopLevel Outreach code.
 
-```sh
-Sample
-```
+
